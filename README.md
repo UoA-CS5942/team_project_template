@@ -22,4 +22,4 @@ How do I test the code to ensure the build is correct?
  What do I do to deploy and/or run this?
   
 ## Team Members
- Cassidy Ehioze Imhanlahimi
+ Who's working on this application?
